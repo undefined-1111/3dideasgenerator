@@ -1,0 +1,35 @@
+* {
+    transition: all 3s ease;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 900 !important;
+}
+
+body {
+    /* background: #2e2e38; */
+    color: #fff;
+    background: #2e2e38 url("https://source.unsplash.com/collection/1215/1920x1080") no-repeat;
+}
+header {
+    margin-top: 200px;
+}
+
+.whoami {
+    margin-top: 100px !important;
+    padding-right: 50px !important;
+    padding-left: 50px !important;
+    padding-top: 14px !important;
+    padding-bottom: 14px !important;
+}
+
+.something {
+    font-size: 64px;
+    width: 800px;
+    height: auto;
+}
+
+.git {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-top: 50px;
+}
